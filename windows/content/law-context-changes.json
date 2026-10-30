@@ -1,0 +1,343 @@
+{
+  "date": "2026-10-30",
+  "bank_count": 1834,
+  "clause_reference_questions_reviewed": 208,
+  "changed_count": 22,
+  "question_ids": [
+    10198,
+    10314,
+    10284,
+    11105,
+    11233,
+    11303,
+    10288,
+    10509,
+    10379,
+    10650,
+    10880,
+    10796,
+    10938,
+    11314,
+    10995,
+    11347,
+    11168,
+    10495,
+    11062,
+    11274,
+    10648,
+    10913
+  ],
+  "answer_options_revision_unchanged": true,
+  "changes": [
+    {
+      "id": 10198,
+      "source_id": "exam-2019-4-18",
+      "number": "198",
+      "subject": "전파법규",
+      "before": "2025.8.12 시행 「무선국의 운용 등에 관한 규정」 제3조의 무선통신 원칙에 맞지 않는 것은?",
+      "after": "무선통신을 할 때 지켜야 할 기본 원칙에 맞지 않는 것은?",
+      "law_context": "무선통신의 원칙은 통신 내용의 분량과 용어, 발신국의 식별, 송신의 정확성과 오류 처리를 다루는 기본 수칙이다.",
+      "law_reference": "무선국의 운용 등에 관한 규정 제3조 · 2025.8.12 시행본",
+      "answer": 4,
+      "sources": [
+        "https://www.law.go.kr/LSW/admRulInfoP.do?admRulSeq=2100000262854&chrClsCd=010201"
+      ]
+    },
+    {
+      "id": 10314,
+      "source_id": "exam-2019-1-44",
+      "number": "314",
+      "subject": "통신보안",
+      "before": "2025.8.12 시행 「무선국의 운용 등에 관한 규정」 제3조의 원칙에 맞지 않는 것은?",
+      "after": "무선통신을 할 때 지켜야 할 기본 원칙에 맞지 않는 것은?",
+      "law_context": "무선통신의 원칙은 통신 내용의 분량과 용어, 발신국의 식별, 송신의 정확성과 오류 처리를 다루는 기본 수칙이다.",
+      "law_reference": "무선국의 운용 등에 관한 규정 제3조 · 2025.8.12 시행본",
+      "answer": 3,
+      "sources": [
+        "https://www.law.go.kr/LSW/admRulInfoP.do?admRulSeq=2100000262854&chrClsCd=010201"
+      ]
+    },
+    {
+      "id": 10284,
+      "source_id": "exam-2019-1-14",
+      "number": "284",
+      "subject": "전파법규",
+      "before": "전파법 제70조에 따른 무선종사자 자격 설명 중 옳은 것은?",
+      "after": "무선종사자의 자격 취득·기술자격증 발급·업무 범위에 관한 설명 중 옳은 것은?",
+      "law_context": "무선종사자는 무선설비의 운용·공사를 담당하는 자격자이다. 자격 규정은 자격 취득, 기술자격증 발급, 자격별 업무 범위와 운용 자격을 다룬다.",
+      "law_reference": "전파법 제70조 · 문항의 기존 검토 시행본 기준",
+      "answer": 2,
+      "sources": [
+        "https://law.go.kr/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1019215121"
+      ]
+    },
+    {
+      "id": 11105,
+      "source_id": "exam-2012-1-15",
+      "number": "1105",
+      "subject": "전파법규",
+      "before": "확인한 전파법 제70조의 설명으로 옳은 것은? 법률상 권한과 위탁 실무를 구별한다.",
+      "after": "무선종사자의 자격 취득·기술자격증 발급·업무 범위에 관한 설명 중 옳은 것은?",
+      "law_context": "무선종사자는 무선설비의 운용·공사를 담당하는 자격자이다. 자격 규정은 자격 취득, 기술자격증 발급, 자격별 업무 범위와 운용 자격을 다룬다.",
+      "law_reference": "전파법 제70조 · 문항의 기존 검토 시행본 기준",
+      "answer": 2,
+      "sources": [
+        "https://www.law.go.kr/LSW/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1030241061"
+      ]
+    },
+    {
+      "id": 11233,
+      "source_id": "exam-2010-4-03",
+      "number": "1233",
+      "subject": "전파법규",
+      "before": "확인한 전파법 제70조의 설명으로 옳은 것은? 법률상 권한과 KCA 위탁 실무를 구별한다.",
+      "after": "무선종사자의 자격 취득·기술자격증 발급·업무 범위에 관한 설명 중 옳은 것은?",
+      "law_context": "무선종사자는 무선설비의 운용·공사를 담당하는 자격자이다. 자격 규정은 자격 취득, 기술자격증 발급, 자격별 업무 범위와 운용 자격을 다룬다.",
+      "law_reference": "전파법 제70조 · 문항의 기존 검토 시행본 기준",
+      "answer": 2,
+      "sources": [
+        "https://www.law.go.kr/LSW/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1030241061"
+      ]
+    },
+    {
+      "id": 11303,
+      "source_id": "exam-2010-1-03",
+      "number": "1303",
+      "subject": "전파법규",
+      "before": "확인한 전파법 제70조의 무선종사자 자격제도에 대한 설명 중 틀린 것은? 법률상 권한과 위탁 실무를 구별한다.",
+      "after": "무선종사자의 자격 취득·기술자격증 발급·업무 범위에 관한 설명 중 틀린 것은?",
+      "law_context": "무선종사자는 무선설비의 운용·공사를 담당하는 자격자이다. 자격 규정은 자격 취득, 기술자격증 발급, 자격별 업무 범위와 운용 자격을 다룬다.",
+      "law_reference": "전파법 제70조 · 문항의 기존 검토 시행본 기준",
+      "answer": 2,
+      "sources": [
+        "https://www.law.go.kr/LSW/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1030241061"
+      ]
+    },
+    {
+      "id": 10288,
+      "source_id": "exam-2019-1-18",
+      "number": "288",
+      "subject": "전파법규",
+      "before": "확보한 RR 2020 제25조 원칙에 대한 설명 중 틀린 것은?",
+      "after": "국제 아마추어무선 통신의 허용 범위와 운용 관리에 관한 설명 중 틀린 것은?",
+      "law_context": "ITU 전파규칙(RR)의 아마추어업무 규정은 국가 간 교신, 제3자를 위한 통신, 통신 내용의 취급과 각국의 운용 관리 등을 다룬다.",
+      "law_reference": "ITU 전파규칙(RR) 제25조 · 2020 판본",
+      "answer": 3,
+      "sources": [
+        "https://search.itu.int/history/HistoryDigitalCollectionDocLibrary/1.44.48.en.101.pdf"
+      ]
+    },
+    {
+      "id": 10509,
+      "source_id": "exam-2018-1-59",
+      "number": "509",
+      "subject": "영어",
+      "before": "확인한 ITU 전파규칙 2020 제25조의 기본 원칙에 맞지 않는 설명은?",
+      "after": "국제 아마추어무선 통신의 허용 범위와 운용 관리에 관한 설명 중 틀린 것은?",
+      "law_context": "ITU 전파규칙(RR)의 아마추어업무 규정은 국가 간 교신, 제3자를 위한 통신, 통신 내용의 취급과 각국의 운용 관리 등을 다룬다.",
+      "law_reference": "ITU 전파규칙(RR) 제25조 · 2020 판본",
+      "answer": 3,
+      "sources": [
+        "https://search.itu.int/history/HistoryDigitalCollectionDocLibrary/1.44.48.en.101.pdf"
+      ]
+    },
+    {
+      "id": 10379,
+      "source_id": "exam-2018-4-19",
+      "number": "379",
+      "subject": "전파법규",
+      "before": "2026.1.2 시행 전파법 제88조의 양벌규정에서 인용하는 벌칙 조문에 해당하는 것은?",
+      "after": "다음 중 전파법의 양벌규정 적용 대상에 해당하는 위반행위는?",
+      "law_context": "양벌규정은 종업원 등이 업무와 관련해 특정 위반행위를 했을 때, 행위자 외에 법인이나 사업주에게도 벌금을 부과할 수 있도록 한 규정이다.",
+      "law_reference": "전파법 제88조 · 2026.1.2 시행본",
+      "answer": 4,
+      "sources": [
+        "https://www.law.go.kr/LSW/lsSideInfoP.do?docCls=jo&joBrNo=00&joNo=0088&lsiSeq=276245&urlMode=lsScJoRltInfoR"
+      ]
+    },
+    {
+      "id": 10650,
+      "source_id": "exam-2017-1-20",
+      "number": "650",
+      "subject": "전파법규",
+      "before": "확인한 2026.1.2 시행 전파법 제88조의 양벌규정이 대상으로 삼는 위반행위는? 조문에 따른 법인·사용자 면책 단서는 별도로 적용된다.",
+      "after": "다음 중 전파법의 양벌규정 적용 대상에 해당하는 위반행위는?",
+      "law_context": "양벌규정은 종업원 등이 업무와 관련해 특정 위반행위를 했을 때, 행위자 외에 법인이나 사업주에게도 벌금을 부과할 수 있도록 한 규정이다.",
+      "law_reference": "전파법 제88조 · 2026.1.2 시행본",
+      "answer": 4,
+      "sources": [
+        "https://www.law.go.kr/LSW/lsSideInfoP.do?docCls=jo&joBrNo=00&joNo=0088&lsiSeq=276245&urlMode=lsScJoRltInfoR"
+      ]
+    },
+    {
+      "id": 10880,
+      "source_id": "exam-2015-4-20",
+      "number": "880",
+      "subject": "전파법규",
+      "before": "확인한 2026.1.2 시행 전파법 제88조의 양벌규정 적용 대상으로 연결되는 위반행위는?",
+      "after": "다음 중 전파법의 양벌규정 적용 대상에 해당하는 위반행위는?",
+      "law_context": "양벌규정은 종업원 등이 업무와 관련해 특정 위반행위를 했을 때, 행위자 외에 법인이나 사업주에게도 벌금을 부과할 수 있도록 한 규정이다.",
+      "law_reference": "전파법 제88조 · 2026.1.2 시행본",
+      "answer": 4,
+      "sources": [
+        "https://www.law.go.kr/LSW/lsSideInfoP.do?docCls=jo&joBrNo=00&joNo=0088&lsiSeq=276245&urlMode=lsScJoRltInfoR"
+      ]
+    },
+    {
+      "id": 10796,
+      "source_id": "exam-2016-1-06",
+      "number": "796",
+      "subject": "전파법규",
+      "before": "확보한 과거 전파법 제20조의2의 무선국 개설의 일반 원칙에 맞지 않는 것은?",
+      "after": "무선국을 개설할 때 갖추어야 할 일반적인 조건에 맞지 않는 것은?",
+      "law_context": "무선국의 개설조건은 개설 목적의 적합성, 다른 무선국에 미치는 영향, 주파수·전력의 사용 방식 등을 정하는 기준이다.",
+      "law_reference": "과거 전파법 제20조의2 · 기존 검토 판본 기준",
+      "answer": 3,
+      "sources": [
+        "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=177652"
+      ]
+    },
+    {
+      "id": 10938,
+      "source_id": "exam-2015-1-partial-08",
+      "number": "938",
+      "subject": "전파법규",
+      "before": "확인한 전파법 제27조의 통신방법 관련 명시 목록에 해당하지 않는 것은? 다른 법령의 근로·휴식 의무를 묻는 문제는 아니다.",
+      "after": "다음 중 무선국 운용 시 지켜야 할 통신 절차에 관한 법정 준수항목이 아닌 것은? 다른 법령의 근로·휴식 의무는 별개다.",
+      "law_context": "통신방법에 관한 규정은 무선국 운용 중 연락을 설정하고 신호를 주고받을 때 지켜야 하는 통신 절차를 정한다.",
+      "law_reference": "전파법 제27조 · 문항의 기존 검토 시행본 기준",
+      "answer": 4,
+      "sources": [
+        "https://www.law.go.kr/LSW/admRulInfoP.do?admRulSeq=2100000262854&chrClsCd=010201"
+      ]
+    },
+    {
+      "id": 11314,
+      "source_id": "exam-2010-1-14",
+      "number": "1314",
+      "subject": "전파법규",
+      "before": "전파법 제27조의 통신방법 등에 관한 준수항목과 구별되는 것은?",
+      "after": "다음 중 무선국 운용 시 지켜야 할 통신 절차에 관한 법정 준수항목이 아닌 것은? 다른 법령의 근로·휴식 의무는 별개다.",
+      "law_context": "통신방법에 관한 규정은 무선국 운용 중 연락을 설정하고 신호를 주고받을 때 지켜야 하는 통신 절차를 정한다.",
+      "law_reference": "전파법 제27조 · 문항의 기존 검토 시행본 기준",
+      "answer": 4,
+      "sources": [
+        "https://www.law.go.kr/LSW/lsInfoP.do?efYd=20260102&lsiSeq=276245"
+      ]
+    },
+    {
+      "id": 10995,
+      "source_id": "exam-2014-4-45",
+      "number": "995",
+      "subject": "통신보안",
+      "before": "전파법 제30조가 직접 열거한 지위가 아닌 것은? 다른 비밀보호 의무의 존재 여부는 별개다.",
+      "after": "다음 중 전파법이 통신보안 준수 의무자로 직접 열거한 지위에 해당하지 않는 것은? 다른 비밀보호 의무는 별개다.",
+      "law_context": "통신보안 준수 규정은 통신정보가 유출되거나 악용되지 않도록 보안책임자 지정·교육 등 정해진 보안조치를 지키게 하는 규정이다.",
+      "law_reference": "전파법 제30조 · 문항의 기존 검토 시행본 기준",
+      "answer": 4,
+      "sources": [
+        "https://law.go.kr/lsLawLinkInfo.do?chrClsCd=010202&lsJoLnkSeq=1000126635"
+      ]
+    },
+    {
+      "id": 11347,
+      "source_id": "exam-2010-1-47",
+      "number": "1347",
+      "subject": "통신보안",
+      "before": "확인한 2006.7.19 약호자재 고시 제14조의 내용에 맞는 것은? 현행 모든 보안자료 분류를 묻지 않는다.",
+      "after": "통신보안용 약호자재의 표시와 복제·복사 관리에 관한 설명 중 옳은 것은?",
+      "law_context": "약호자재는 통신에 사용할 약속된 표현 등을 관리하는 자료이다. 이 조항은 자재의 보안표시와 복제·복사 관리 방법을 다룬다.",
+      "law_reference": "무선국의 통신보안 준수 및 약호자재 승인 등에 관한 사항 제14조 · 2006.7.19 시행본",
+      "answer": 2,
+      "sources": [
+        "https://www.law.go.kr/admRulLsInfoP.do?admRulSeq=2000000071662&chrClsCd=010201"
+      ]
+    },
+    {
+      "id": 11168,
+      "source_id": "exam-2011-1-08",
+      "number": "1168",
+      "subject": "전파법규",
+      "before": "확인한 2022.1.4 무선설비규칙 제17조·제18조의 설명 중 틀린 것은?",
+      "after": "고압전기를 사용하는 무선설비와 안테나의 안전시설에 관한 설명 중 틀린 것은?",
+      "law_context": "무선설비 안전시설 규정은 고압전기 접촉 사고와 안테나의 낙뢰 피해를 막기 위한 보호시설 기준을 다룬다.",
+      "law_reference": "무선설비규칙 제17조·제18조 · 2022.1.4 시행본",
+      "answer": 2,
+      "sources": [
+        "https://www.law.go.kr/lsInfoP.do?efYd=20220104&lsiSeq=239167"
+      ]
+    },
+    {
+      "id": 10495,
+      "source_id": "exam-2018-1-45",
+      "number": "495",
+      "subject": "통신보안",
+      "before": "전파법 제31조제2항에서 통신 시 암어 사용 금지를 직접 명시한 무선국 조합은?",
+      "after": "다음 중 전파법이 통신 시 암어 사용을 금지한다고 직접 명시한 무선국의 조합은?",
+      "law_context": "암어는 통신 당사자끼리 정한 뜻으로 실제 통신 내용을 숨기는 표현을 말한다. 이 문항은 법에서 암어 사용 금지를 직접 명시한 무선국 종류를 묻는다.",
+      "law_reference": "전파법 제31조제2항 · 문항의 기존 검토 시행본 기준",
+      "answer": 1,
+      "sources": [
+        "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=285531"
+      ]
+    },
+    {
+      "id": 11062,
+      "source_id": "exam-2014-1-42",
+      "number": "1062",
+      "subject": "통신보안",
+      "before": "전파법 제31조제2항이 암어 금지를 직접 명시한 종별에 해당하는 것은? 다른 종별의 암어를 무조건 허용한다는 뜻은 아니다.",
+      "after": "다음 중 전파법이 통신 시 암어 사용을 금지한다고 직접 명시한 무선국은?",
+      "law_context": "암어는 통신 당사자끼리 정한 뜻으로 실제 통신 내용을 숨기는 표현을 말한다. 이 문항은 법에서 암어 사용 금지를 직접 명시한 무선국 종류를 묻는다.",
+      "law_reference": "전파법 제31조제2항 · 문항의 기존 검토 시행본 기준",
+      "answer": 4,
+      "sources": [
+        "https://www.law.go.kr/lsLawLinkInfo.do?chrClsCd=010202&lsJoLnkSeq=1000126674"
+      ]
+    },
+    {
+      "id": 11274,
+      "source_id": "exam-2010-4-44",
+      "number": "1274",
+      "subject": "통신보안",
+      "before": "전파법 제31조제2항의 암어 사용 금지가 명시적으로 적용되는 무선국은?",
+      "after": "다음 중 전파법이 통신 시 암어 사용을 금지한다고 직접 명시한 무선국은?",
+      "law_context": "암어는 통신 당사자끼리 정한 뜻으로 실제 통신 내용을 숨기는 표현을 말한다. 이 문항은 법에서 암어 사용 금지를 직접 명시한 무선국 종류를 묻는다.",
+      "law_reference": "전파법 제31조제2항 · 문항의 기존 검토 시행본 기준",
+      "answer": 3,
+      "sources": [
+        "https://www.law.go.kr/LSW/lsInfoP.do?efYd=20260102&lsiSeq=276245"
+      ]
+    },
+    {
+      "id": 10648,
+      "source_id": "exam-2017-1-18",
+      "number": "648",
+      "subject": "전파법규",
+      "before": "ITU 헌장 제3조의 회원국 권리로 규정되지 않은 것은?",
+      "after": "다음 중 ITU 회원국이 연합 활동에 참여할 때 갖는 권리로 규정되지 않은 것은?",
+      "law_context": "ITU 헌장의 회원국 권리 규정은 각 회원국이 연합의 활동과 의사결정에 참여할 때 갖는 권리와 그 조건을 다룬다.",
+      "law_reference": "ITU 헌장 제3조 · 2023 기본문서",
+      "answer": 4,
+      "sources": [
+        "https://www.itu.int/en/council/Documents/basic-texts-2023/Constitution-E.pdf"
+      ]
+    },
+    {
+      "id": 10913,
+      "source_id": "exam-2015-4-53",
+      "number": "913",
+      "subject": "영어",
+      "before": "ITU RR 제1조의 주파수 관리 정의 항목에 해당하지 않는 것은?",
+      "after": "다음 중 ITU 전파규칙의 주파수 관리 단계에 관한 정의 용어에 해당하지 않는 것은?",
+      "law_context": "ITU 전파규칙은 주파수대의 용도 설정, 국가·지역별 주파수 계획, 개별 무선국의 사용 허가 등 주파수 관리 단계에 쓰는 용어를 정의한다.",
+      "law_reference": "ITU 전파규칙(RR) 제1조 · 기존 검토 판본 기준",
+      "answer": 4,
+      "sources": [
+        "https://search.itu.int/history/HistoryDigitalCollectionDocLibrary/1.49.48.en.102.pdf"
+      ]
+    }
+  ],
+  "score_basis_sha256": "6bd058628670217130582e519a7cad5a56648c67af405e0eb173359c612c3052",
+  "unrelated_questions_sha256": "43202bbf72d95d25fcebc6eb8da3f6def9a1546bde5fd005d45a5b5e3383cb10"
+}

@@ -1,0 +1,17 @@
+node_modules/
+build/
+output/
+dist/
+private-signing/
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.pem
+*.key
+password.txt
+.env*
+*.apk
+*.exe
+*.zip
+progress.json*
